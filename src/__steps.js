@@ -5,4 +5,5 @@
  * 4. install firebase: npm install firebase
  * 5. add config file to your file
  * 6. Danger; Do not publish those in github
+ *
  */
